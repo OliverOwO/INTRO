@@ -2,3 +2,6 @@
 
 //Double slashes - comment 
 Debug.Log("Hello"); - these print to the console
+
+integer varibles are called int,then we name them starting with a lowercase letter
+ex. int myAgeIs
