@@ -1,0 +1,4 @@
+
+
+//Double slashes - comment 
+Debug.Log("Hello"); - these print to the console
