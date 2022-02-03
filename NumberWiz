@@ -5,3 +5,13 @@ Debug.Log("Hello"); - these print to the console
 
 integer varibles are called int,then we name them starting with a lowercase letter
 ex. int myAgeIs
+
+
+
+if statements
+
+// is looking for a key to be pressed and will upload it into the console
+EX. if (Input. GetKeyDown("up"))
+      {
+        Debug.Log(" YoU'vE pReSsEd ThE uP kEy")
+      {
