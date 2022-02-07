@@ -15,3 +15,12 @@ EX. if (Input. GetKeyDown("up"))
       {
         Debug.Log(" YoU'vE pReSsEd ThE uP kEy")
       {
+      
+      /resetting a varible to a new value
+      maxGuess= guess;
+      
+      //recalcuting guess average based on new numbers
+      guess= (minGuess + maxGuess) / 2;
+      
+      
+      
